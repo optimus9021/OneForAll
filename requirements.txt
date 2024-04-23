@@ -1,0 +1,6 @@
+pandas
+requests
+tqdm
+scikit-learn
+xlrd
+beautifulsoup4

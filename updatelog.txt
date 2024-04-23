@@ -1,0 +1,4 @@
+26 Feb 2024
+    - update data for all euro league
+    - added script for sorting data .xlsx in folder data
+    - updated script on 2nd-script.py and 3rd-script.py
