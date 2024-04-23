@@ -18,6 +18,8 @@ def prediksi():
     elif pilihan == '2':
         print('Ambil Prediksi dari situs')
         clear_screen()
+        # forebet()
+        statarea()
         input('Proses Selesai Silahkan Enter Untuk Melanjutkan, dan kembali ke menu sebelumnya')
         clear_screen()
         prediksi()
@@ -44,8 +46,6 @@ def jalankan_prediksi_utama():
             folder_path='result/hasil-prediksi/')
         from Script.modules.prediksi.modelPrediksi import make_predictions
         make_predictions()
-        forebet()
-        statarea()
         print('Proses Selesai.')
         input('Tekan Enter Untuk Melanjutkan')
         clear_screen()

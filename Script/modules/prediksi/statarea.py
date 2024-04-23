@@ -64,14 +64,14 @@ def save_to_txt(data):
     # Sort the match data by match time
     sorted_data = sorted(data, key=lambda x: datetime.strptime(x['match_time'], '%H:%M'))
 
-    # Find the index where the match time starts from 12:00
+    # Find the index where the match time starts from 06:59
     start_index = 0
     for i, match in enumerate(sorted_data):
-        if datetime.strptime(match['match_time'], '%H:%M') >= datetime.strptime('12:00', '%H:%M'):
+        if datetime.strptime(match['match_time'], '%H:%M') >= datetime.strptime('06:59', '%H:%M'):
             start_index = i
             break
 
-    # Reorder the sorted data to start from the match time at 12:00
+    # Reorder the sorted data to start from the match time at 06:59
     sorted_data = sorted_data[start_index:] + sorted_data[:start_index]
 
     with open(file_name, 'w') as file:

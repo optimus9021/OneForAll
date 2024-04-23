@@ -21,7 +21,7 @@ def main():
     # Ketika ada koneksi internet
     print("Koneksi internet ditemukan. Menjalankan skrip.")
 
-    forebet()
+    # forebet()
     statarea()
 
 if __name__ == "__main__":

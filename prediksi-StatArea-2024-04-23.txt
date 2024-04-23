@@ -1,0 +1,72 @@
+07:00 ,Vila Nova - Guarani Campinas             ,Home Win: 61% ,Draw: 25% ,Away Win: 14% ,FTR: 2:0Half time results: 1:0
+07:10 ,Quilmes - Patronato                      ,Home Win: 63% ,Draw: 25% ,Away Win: 12% ,FTR: 2:2Half time results: 0:1
+07:30 ,Deportes La Serena - Deportes Santa Cruz ,Home Win: 44% ,Draw: 28% ,Away Win: 28% ,FTR: 2:1Half time results: 1:1
+07:30 ,Universidad De Concepcion - Curico Unido ,Home Win: 48% ,Draw: 33% ,Away Win: 19% ,FTR: 2:0Half time results: 1:0
+08:20 ,Deportivo Pasto - La Equidad             ,Home Win: 26% ,Draw: 33% ,Away Win: 41% ,FTR: 2:3Half time results: 2:0
+09:00 ,AD Guanacasteca - CS Herediano           ,Home Win: 32% ,Draw: 30% ,Away Win: 38% ,FTR: 1:2Half time results: 0:2
+16:30 ,Eastern Suburbs FC - Mitchelton          ,Home Win: 74% ,Draw: 13% ,Away Win: 13% ,FTR: 4:2Half time results: 1:0
+17:00 ,Grobina - Rigas Futbola Skola            ,Home Win: 15% ,Draw: 20% ,Away Win: 65% ,FTR: 0:4Half time results: 0:2
+17:30 ,Redlands United - Moreton Bay United     ,Home Win: 23% ,Draw: 27% ,Away Win: 50% ,FTR: 0:1Half time results: 0:0
+20:00 ,BKMA - Shirak FC                         ,Home Win: 41% ,Draw: 29% ,Away Win: 30% ,FTR: -
+21:00 ,FC Voluntari - FC Universitatea Craiova  ,Home Win: 47% ,Draw: 31% ,Away Win: 22% ,FTR: -
+21:00 ,Ethnikos Achnas - Apollon Limassol       ,Home Win: 32% ,Draw: 28% ,Away Win: 40% ,FTR: -
+21:00 ,Odisha FC - ATK Mohun Bagan FC           ,Home Win: 36% ,Draw: 30% ,Away Win: 34% ,FTR: -
+21:30 ,FK Liepaja - FK Jelgava                  ,Home Win: 54% ,Draw: 27% ,Away Win: 19% ,FTR: -
+22:30 ,Uzbekistan (u23) - Vietnam (u23)         ,Home Win: 53% ,Draw: 26% ,Away Win: 21% ,FTR: -
+23:00 ,Al-Nahda Club - Al Ahed                  ,Home Win: 35% ,Draw: 23% ,Away Win: 42% ,FTR: -
+23:00 ,A.E. Zakakiou - Doxa Katokopias          ,Home Win: 23% ,Draw: 24% ,Away Win: 53% ,FTR: -
+23:00 ,Zaglebie Sosnowiec - Stal Rzeszow        ,Home Win: 28% ,Draw: 32% ,Away Win: 40% ,FTR: -
+23:00 ,Podbeskidzie - GKS Tychy                 ,Home Win: 29% ,Draw: 31% ,Away Win: 40% ,FTR: -
+23:00 ,Skeid - Raufoss                          ,Home Win: 32% ,Draw: 26% ,Away Win: 42% ,FTR: -
+23:30 ,FC Botosani - Dinamo Bucuresti           ,Home Win: 48% ,Draw: 27% ,Away Win: 25% ,FTR: -
+23:30 ,WSG Swarovski Tirol - Austria Vienna     ,Home Win: 29% ,Draw: 26% ,Away Win: 45% ,FTR: -
+23:30 ,Austria Lustenau - Wolfsberger AC        ,Home Win: 27% ,Draw: 26% ,Away Win: 47% ,FTR: -
+23:45 ,Arminia Hannover - Schwarz-Weiss Rehden  ,Home Win: 25% ,Draw: 22% ,Away Win: 53% ,FTR: -
+00:00 ,BTS Neustadt - Tura Bremen               ,Home Win: 61% ,Draw: 26% ,Away Win: 13% ,FTR: -
+00:00 ,Al Ahly Cairo - Ceramica Cleopatra       ,Home Win: 35% ,Draw: 46% ,Away Win: 19% ,FTR: canc
+00:30 ,Ankaragucu - Besiktas                    ,Home Win: 30% ,Draw: 32% ,Away Win: 38% ,FTR: -
+00:30 ,AC Bellinzona - FC Schaffhausen          ,Home Win: 42% ,Draw: 24% ,Away Win: 34% ,FTR: -
+00:30 ,Neuchatel Xamax FC - FC Wil 1900         ,Home Win: 45% ,Draw: 36% ,Away Win: 19% ,FTR: -
+01:00 ,Solihull Moors - Gateshead               ,Home Win: 37% ,Draw: 28% ,Away Win: 35% ,FTR: canc
+01:15 ,FC Baden - FC Aarau                      ,Home Win: 26% ,Draw: 28% ,Away Win: 46% ,FTR: -
+01:30 ,Deportivo Laferrere - San Martin Burzaco ,Home Win: 40% ,Draw: 33% ,Away Win: 27% ,FTR: -
+01:30 ,Berazategui - Claypole                   ,Home Win: 52% ,Draw: 30% ,Away Win: 18% ,FTR: -
+01:30 ,J.J. Urquiza - Leandro Niceforo Alem     ,Home Win: 45% ,Draw: 26% ,Away Win: 29% ,FTR: -
+01:30 ,St Truiden - Gent                        ,Home Win: 32% ,Draw: 26% ,Away Win: 42% ,FTR: -
+01:30 ,Standard Liege - KV Mechelen             ,Home Win: 35% ,Draw: 32% ,Away Win: 33% ,FTR: -
+01:30 ,KVC Westerlo - OH Leuven                 ,Home Win: 35% ,Draw: 34% ,Away Win: 31% ,FTR: -
+01:30 ,FC BW Linz - SCR Altach                  ,Home Win: 36% ,Draw: 34% ,Away Win: 30% ,FTR: -
+01:30 ,Resovia Rzeszow - Wisla Krakow           ,Home Win: 21% ,Draw: 26% ,Away Win: 53% ,FTR: -
+01:30 ,Denbigh Town - Bangor 1876               ,Home Win: 53% ,Draw: 26% ,Away Win: 21% ,FTR: -
+01:45 ,Cheltenham - Peterborough                ,Home Win: 23% ,Draw: 26% ,Away Win: 51% ,FTR: -
+01:45 ,Cambridge United - Wycombe               ,Home Win: 31% ,Draw: 28% ,Away Win: 41% ,FTR: -
+01:45 ,Barrow - Bradford                        ,Home Win: 39% ,Draw: 30% ,Away Win: 31% ,FTR: -
+01:45 ,Colchester - Doncaster                   ,Home Win: 36% ,Draw: 31% ,Away Win: 33% ,FTR: -
+01:45 ,Bamber Bridge - Macclesfield             ,Home Win: 24% ,Draw: 23% ,Away Win: 53% ,FTR: -
+01:45 ,Guiseley AFC - Worksop                   ,Home Win: 38% ,Draw: 30% ,Away Win: 32% ,FTR: -
+01:45 ,Potters Bar Town - Hastings              ,Home Win: 28% ,Draw: 29% ,Away Win: 43% ,FTR: -
+01:45 ,Concord Rangers - Bognor Regis           ,Home Win: 25% ,Draw: 26% ,Away Win: 49% ,FTR: -
+01:45 ,Whitehawk - Enfield Town                 ,Home Win: 31% ,Draw: 30% ,Away Win: 39% ,FTR: -
+01:45 ,Cheshunt FC - Horsham                    ,Home Win: 28% ,Draw: 23% ,Away Win: 49% ,FTR: -
+01:45 ,Alfreton - Boston Utd                    ,Home Win: 47% ,Draw: 31% ,Away Win: 22% ,FTR: -
+01:45 ,Braintree - Bath City                    ,Home Win: 44% ,Draw: 31% ,Away Win: 25% ,FTR: -
+01:45 ,Caen - Annecy                            ,Home Win: 46% ,Draw: 28% ,Away Win: 26% ,FTR: -
+01:45 ,Rodez - Paris FC                         ,Home Win: 36% ,Draw: 39% ,Away Win: 25% ,FTR: -
+01:45 ,Quevilly - Amiens                        ,Home Win: 36% ,Draw: 33% ,Away Win: 31% ,FTR: -
+01:45 ,Bordeaux - Dunkerque                     ,Home Win: 47% ,Draw: 29% ,Away Win: 24% ,FTR: -
+01:45 ,Estac Troyes - Pau                       ,Home Win: 35% ,Draw: 29% ,Away Win: 36% ,FTR: -
+01:45 ,Grenoble Foot 38 - St Etienne            ,Home Win: 28% ,Draw: 31% ,Away Win: 41% ,FTR: -
+01:45 ,Guingamp - Angers                        ,Home Win: 39% ,Draw: 32% ,Away Win: 29% ,FTR: -
+01:45 ,Valenciennes - Ajaccio                   ,Home Win: 26% ,Draw: 33% ,Away Win: 41% ,FTR: -
+01:45 ,Auxerre - Laval                          ,Home Win: 53% ,Draw: 28% ,Away Win: 19% ,FTR: -
+01:45 ,Bastia - Concarneau                      ,Home Win: 43% ,Draw: 31% ,Away Win: 26% ,FTR: -
+02:00 ,Leicester - Southampton                  ,Home Win: 46% ,Draw: 29% ,Away Win: 25% ,FTR: -
+02:00 ,Arsenal - Chelsea                        ,Home Win: 56% ,Draw: 26% ,Away Win: 18% ,FTR: -
+02:00 ,Juventus - Lazio                         ,Home Win: 52% ,Draw: 27% ,Away Win: 21% ,FTR: -
+02:00 ,Lazio - Juventus                         ,Home Win: 36% ,Draw: 32% ,Away Win: 32% ,FTR: -
+02:15 ,Fjolnir - Selfoss                        ,Home Win: 68% ,Draw: 17% ,Away Win: 15% ,FTR: -
+03:00 ,Comerciantes Unidos - Alianza Atletico   ,Home Win: 50% ,Draw: 30% ,Away Win: 20% ,FTR: -
+03:30 ,Deportivo Municipal - Deportivo Coopsol  ,Home Win: 49% ,Draw: 21% ,Away Win: 30% ,FTR: -
+05:00 ,Union La Calera - Cruzeiro               ,Home Win: 20% ,Draw: 32% ,Away Win: 48% ,FTR: -
+05:00 ,Estudiantes L.P. - Gremio                ,Home Win: 58% ,Draw: 24% ,Away Win: 18% ,FTR: -
+05:00 ,Ferro Carril Oeste - Alvarado            ,Home Win: 48% ,Draw: 39% ,Away Win: 13% ,FTR: -
