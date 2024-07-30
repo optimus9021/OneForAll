@@ -1,6 +1,6 @@
 import os
-from Script.routes.menu import menu_utama
-from Script.utility.clearscreen import clear_screen
+from src.routes.menu import menu_utama
+from src.utility.clearscreen import clear_screen
 
 def create_folders(root_path, structure):
     """

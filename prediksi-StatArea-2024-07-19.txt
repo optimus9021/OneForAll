@@ -1,0 +1,60 @@
+07:00 ,Novorizontino - Chapecoense                    ,Home Win: 50% ,Draw: 30% ,Away Win: 20% ,FTR: 1:0Half time results: 1:0
+07:00 ,Instituto Cordoba - Independiente              ,Home Win: 36% ,Draw: 33% ,Away Win: 31% ,FTR: 3:1Half time results: 3:1
+08:10 ,Independiente Medellin - Millonarios           ,Home Win: 47% ,Draw: 31% ,Away Win: 22% ,FTR: 1:1Half time results: 1:0
+16:30 ,South Melbourne - Dandenong City               ,Home Win: 60% ,Draw: 20% ,Away Win: 20% ,FTR: -
+16:30 ,Melbourne Knights - Altona Magic               ,Home Win: 46% ,Draw: 25% ,Away Win: 29% ,FTR: -
+17:00 ,Nepean Fc - Dulwich Hill Fc                    ,Home Win: 42% ,Draw: 30% ,Away Win: 28% ,FTR: -
+17:15 ,Launceston Utd - Riverside Olympic             ,Home Win: 28% ,Draw: 24% ,Away Win: 48% ,FTR: -
+17:30 ,Northcote City - Werribee City                 ,Home Win: 71% ,Draw: 18% ,Away Win: 11% ,FTR: -
+18:45 ,Geylang International - Tanjong Pagar Utd FC   ,Home Win: 64% ,Draw: 21% ,Away Win: 15% ,FTR: -
+19:15 ,DPMM FC - Hougang United FC                    ,Home Win: 49% ,Draw: 30% ,Away Win: 21% ,FTR: -
+21:30 ,Denmark (u19) - France (u19)                   ,Home Win: 23% ,Draw: 21% ,Away Win: 56% ,FTR: -
+22:45 ,Cherno More Varna - CSKA 1948                  ,Home Win: 60% ,Draw: 29% ,Away Win: 11% ,FTR: -
+23:00 ,AGF - FC Midtjylland                           ,Home Win: 36% ,Draw: 25% ,Away Win: 39% ,FTR: -
+23:00 ,Opava - Vlasim                                 ,Home Win: 56% ,Draw: 32% ,Away Win: 12% ,FTR: -
+23:00 ,Jagiellonia - Puszcza Niepolomice              ,Home Win: 57% ,Draw: 30% ,Away Win: 13% ,FTR: -
+23:00 ,Polonia Warszawa - Znicz Pruszkow              ,Home Win: 38% ,Draw: 36% ,Away Win: 26% ,FTR: -
+23:00 ,Tammeka Tartu - Flora Tallinn                  ,Home Win: 27% ,Draw: 31% ,Away Win: 42% ,FTR: -
+23:00 ,OLS - FCV                                      ,Home Win: 74% ,Draw: 17% ,Away Win: 9%  ,FTR: -
+23:00 ,Al Wadi - Red Arrows                           ,Home Win: 24% ,Draw: 28% ,Away Win: 48% ,FTR: -
+23:30 ,Ansbach - FC Nurnberg II                       ,Home Win: 36% ,Draw: 17% ,Away Win: 47% ,FTR: -
+00:00 ,TSV Schwaben Augsburg - Viktoria Aschaffenburg ,Home Win: 49% ,Draw: 31% ,Away Win: 20% ,FTR: -
+00:00 ,Schweinfurt - TSV Aubstadt                     ,Home Win: 46% ,Draw: 29% ,Away Win: 25% ,FTR: -
+00:00 ,SV Heimstetten - FC Ismaning                   ,Home Win: 69% ,Draw: 16% ,Away Win: 15% ,FTR: -
+00:00 ,B93 Copenhagen - Kolding IF                    ,Home Win: 33% ,Draw: 32% ,Away Win: 35% ,FTR: -
+00:00 ,Hvidovre - HB Koge                             ,Home Win: 56% ,Draw: 25% ,Away Win: 19% ,FTR: -
+00:00 ,Vendsyssel FF - Roskilde                       ,Home Win: 49% ,Draw: 28% ,Away Win: 23% ,FTR: -
+00:00 ,Sparta Praha - Pardubice                       ,Home Win: 64% ,Draw: 20% ,Away Win: 16% ,FTR: -
+00:00 ,Radnicki 1923 - Zeleznicar Pancevo             ,Home Win: 54% ,Draw: 30% ,Away Win: 16% ,FTR: -
+00:00 ,Dziugas - Hegelmann Litauen                    ,Home Win: 26% ,Draw: 28% ,Away Win: 46% ,FTR: -
+00:30 ,Neuchatel Xamax FC - FC Stade LS Ouchy         ,Home Win: 51% ,Draw: 31% ,Away Win: 18% ,FTR: -
+00:30 ,FC Schaffhausen - Etoile-Carouge FC            ,Home Win: 37% ,Draw: 34% ,Away Win: 29% ,FTR: -
+01:00 ,Turkey (u19) - Spain (u19)                     ,Home Win: 20% ,Draw: 24% ,Away Win: 56% ,FTR: -
+01:00 ,Barracas Central - Newells Old Boys            ,Home Win: 33% ,Draw: 32% ,Away Win: 35% ,FTR: -
+01:00 ,Deportivo Espanol - Puerto Nuevo               ,Home Win: 52% ,Draw: 31% ,Away Win: 17% ,FTR: -
+01:00 ,FC Nordsjaelland - Aalborg                     ,Home Win: 57% ,Draw: 26% ,Away Win: 17% ,FTR: -
+01:00 ,Skeid - Alta IF                                ,Home Win: 58% ,Draw: 21% ,Away Win: 21% ,FTR: -
+01:15 ,FC Aarau - FC Thun                             ,Home Win: 37% ,Draw: 23% ,Away Win: 40% ,FTR: -
+01:15 ,Levski Krumovgrad - Slavia Sofia               ,Home Win: 51% ,Draw: 26% ,Away Win: 23% ,FTR: -
+01:30 ,Slask Wroclaw - Lechia Gdansk                  ,Home Win: 54% ,Draw: 25% ,Away Win: 21% ,FTR: -
+01:30 ,Odra Opole - Ruch Chorzow                      ,Home Win: 44% ,Draw: 34% ,Away Win: 22% ,FTR: -
+01:45 ,Cobh Ramblers - Kerry                          ,Home Win: 47% ,Draw: 31% ,Away Win: 22% ,FTR: -
+01:45 ,Drogheda United - Dundalk                      ,Home Win: 30% ,Draw: 32% ,Away Win: 38% ,FTR: -
+01:45 ,Galway United - Longford Town FC               ,Home Win: 71% ,Draw: 20% ,Away Win: 9%  ,FTR: -
+01:45 ,Waterford FC - Cockhill Celtic                 ,Home Win: 76% ,Draw: 19% ,Away Win: 5%  ,FTR: -
+01:45 ,Athlone Town - Ringmahon Rangers               ,Home Win: 70% ,Draw: 24% ,Away Win: 6%  ,FTR: -
+01:45 ,Bohemians - Shamrock Rovers                    ,Home Win: 31% ,Draw: 26% ,Away Win: 43% ,FTR: -
+02:00 ,Unirea 2004 Slobozia - FCSB                    ,Home Win: 33% ,Draw: 23% ,Away Win: 44% ,FTR: -
+02:00 ,Napredak - FK Partizan                         ,Home Win: 23% ,Draw: 25% ,Away Win: 52% ,FTR: -
+03:15 ,Sport Huancayo - Deportivo Garcilaso           ,Home Win: 47% ,Draw: 31% ,Away Win: 22% ,FTR: -
+04:00 ,Long Island Rough Riders - Vermont Green       ,Home Win: 49% ,Draw: 19% ,Away Win: 32% ,FTR: -
+04:10 ,Atletico Rafaela - Nueva Chicago               ,Home Win: 28% ,Draw: 31% ,Away Win: 41% ,FTR: -
+05:00 ,Avai - Ceara                                   ,Home Win: 49% ,Draw: 29% ,Away Win: 22% ,FTR: -
+05:00 ,Belgrano Cordoba - Deportivo Riestra           ,Home Win: 47% ,Draw: 34% ,Away Win: 19% ,FTR: -
+05:00 ,Jaguares - Patriotas                           ,Home Win: 57% ,Draw: 24% ,Away Win: 19% ,FTR: -
+05:00 ,Defensor Sporting - CA River Plate             ,Home Win: 56% ,Draw: 29% ,Away Win: 15% ,FTR: -
+05:30 ,Club Nacional - Sportivo Trinidense            ,Home Win: 41% ,Draw: 27% ,Away Win: 32% ,FTR: -
+06:00 ,Huachipato - Cobreloa                          ,Home Win: 53% ,Draw: 25% ,Away Win: 22% ,FTR: -
+06:10 ,Chaco For Ever - Temperley                     ,Home Win: 35% ,Draw: 34% ,Away Win: 31% ,FTR: -
+06:30 ,North Carolina FC - Detroit City FC            ,Home Win: 45% ,Draw: 29% ,Away Win: 26% ,FTR: -
+06:30 ,Charleston Battery - Miami FC                  ,Home Win: 77% ,Draw: 17% ,Away Win: 6%  ,FTR: -

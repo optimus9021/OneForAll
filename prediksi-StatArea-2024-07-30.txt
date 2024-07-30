@@ -1,0 +1,34 @@
+07:00 ,Goias - Amazonas Fc                    ,Home Win: 51% ,Draw: 31% ,Away Win: 18% ,FTR: canc
+07:00 ,Belgrano Cordoba - Godoy Cruz          ,Home Win: 41% ,Draw: 34% ,Away Win: 25% ,FTR: 1:0Half time results: 1:0
+07:00 ,Argentinos Jrs - Lanus                 ,Home Win: 36% ,Draw: 33% ,Away Win: 31% ,FTR: 2:0Half time results: 0:0
+07:00 ,Cobreloa - Palestino                   ,Home Win: 31% ,Draw: 29% ,Away Win: 40% ,FTR: 3:1Half time results: 0:1
+07:10 ,Argentino de Merlo - Canuelas          ,Home Win: 56% ,Draw: 28% ,Away Win: 16% ,FTR: 0:2Half time results: 0:1
+08:00 ,Perez Zeledon - Sporting San Jose      ,Home Win: 36% ,Draw: 31% ,Away Win: 33% ,FTR: 0:2Half time results: 0:1
+08:10 ,Fortaleza FC - Deportivo Cali          ,Home Win: 48% ,Draw: 33% ,Away Win: 19% ,FTR: 2:1Half time results: 1:0
+16:00 ,Moreton Bay United - Campbelltown City ,Home Win: 43% ,Draw: 32% ,Away Win: 25% ,FTR: -
+16:30 ,Oakleigh Cannons - Sydney FC           ,Home Win: 36% ,Draw: 25% ,Away Win: 39% ,FTR: -
+20:00 ,Terengganu - Negeri Sembilan           ,Home Win: 68% ,Draw: 20% ,Away Win: 12% ,FTR: -
+21:30 ,El Dakhleya - El Geish                 ,Home Win: 28% ,Draw: 35% ,Away Win: 37% ,FTR: -
+22:30 ,Lokomotiv Moscow - FC Rostov           ,Home Win: 49% ,Draw: 26% ,Away Win: 25% ,FTR: -
+22:30 ,Rubin - Akron Togliatti                ,Home Win: 44% ,Draw: 33% ,Away Win: 23% ,FTR: -
+22:30 ,Honka (w) - Hps (w)                    ,Home Win: 28% ,Draw: 24% ,Away Win: 48% ,FTR: -
+23:00 ,Pyunik Yerevan - FK Struga             ,Home Win: 48% ,Draw: 26% ,Away Win: 26% ,FTR: -
+23:00 ,Strindheim - Valerenga 2               ,Home Win: 69% ,Draw: 15% ,Away Win: 16% ,FTR: -
+23:30 ,1896 Rain Am Lech - FC Memmingen       ,Home Win: 34% ,Draw: 27% ,Away Win: 39% ,FTR: -
+23:30 ,TSV Abtswind - SC Eltersdorf           ,Home Win: 40% ,Draw: 21% ,Away Win: 39% ,FTR: -
+00:00 ,Sparta Praha - Shamrock Rovers         ,Home Win: 73% ,Draw: 21% ,Away Win: 6%  ,FTR: -
+00:00 ,Petrocub - Apoel                       ,Home Win: 50% ,Draw: 28% ,Away Win: 22% ,FTR: -
+00:00 ,TSV Landsberg - Fc Sonthofen           ,Home Win: 45% ,Draw: 30% ,Away Win: 25% ,FTR: -
+00:00 ,SV Heimstetten - Sv Erlbach            ,Home Win: 55% ,Draw: 21% ,Away Win: 24% ,FTR: -
+01:00 ,Zenit - Fakel Voronezh                 ,Home Win: 66% ,Draw: 22% ,Away Win: 12% ,FTR: -
+01:30 ,Slovan Bratislava - NK Celje           ,Home Win: 51% ,Draw: 28% ,Away Win: 21% ,FTR: -
+01:30 ,Fraserburgh - Hearts B                 ,Home Win: 40% ,Draw: 38% ,Away Win: 22% ,FTR: -
+01:45 ,Cowdenbeath - Kilmarnock B             ,Home Win: 35% ,Draw: 42% ,Away Win: 23% ,FTR: -
+01:45 ,Dundee Fc B - Formartine Utd           ,Home Win: 34% ,Draw: 24% ,Away Win: 42% ,FTR: -
+01:45 ,East Kilbride - Celtic B               ,Home Win: 65% ,Draw: 16% ,Away Win: 19% ,FTR: -
+01:45 ,Hibernian B - Albion Rovers            ,Home Win: 36% ,Draw: 41% ,Away Win: 23% ,FTR: -
+02:15 ,Leiknir Reykjavik - Grotta             ,Home Win: 45% ,Draw: 26% ,Away Win: 29% ,FTR: -
+02:15 ,Grindavik - Afturelding                ,Home Win: 39% ,Draw: 22% ,Away Win: 39% ,FTR: -
+03:00 ,Sport Boys - Cienciano                 ,Home Win: 53% ,Draw: 28% ,Away Win: 19% ,FTR: -
+03:00 ,Sport Huancayo - Cesar Vallejo         ,Home Win: 56% ,Draw: 31% ,Away Win: 13% ,FTR: -
+06:00 ,Rionegro FC - Patriotas                ,Home Win: 52% ,Draw: 27% ,Away Win: 21% ,FTR: -
