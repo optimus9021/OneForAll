@@ -32,7 +32,7 @@ def get():
 
 def ambil_data_learning():
     print('Ambil Data untuk Learning.')
-    nomor_file = int(input('Masukkan Nomor File yang ingin di Ambil [6-24]: '))
+    nomor_file = int(input('Masukkan Nomor File yang ingin di Ambil [20-26]: '))
     print(f'Nomor file {nomor_file} dipilih.')
     konfirmasi = input('Apakah Anda ingin melanjutkan proses? (y/n): ')
     if konfirmasi.lower() == 'y':

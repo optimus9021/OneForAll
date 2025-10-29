@@ -48,7 +48,7 @@ def proses_data_learning():
         clear_screen()
         print('Silahkan Menunggu Proses Selesai')
         print('Processing Data')
-        n = int(input('Masukkan Nomor File awal yang akan diproses dari 20 sampai 24: '))
+        n = int(input('Masukkan Nomor File awal yang akan diproses dari 20 sampai 26: '))
         print(f'Nomor file {n} dipilih.')
         process_data(n)
         print('Proses Selesai')

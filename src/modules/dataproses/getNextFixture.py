@@ -25,7 +25,7 @@ def get_nextFixture_data():
 
             # Tentukan kolom yang ingin Anda pertahankan
             kolom_yang_diinginkan = ['Div', 'Date', 'HomeTeam', 'AwayTeam',
-                                    'FTHG', 'FTAG', 'FTR',
+                                    # 'FTHG', 'FTAG', 'FTR',
                                     'MaxH', 'MaxD', 'MaxA',
                                     'AvgH', 'AvgD', 'AvgA',
                                     'MaxAHH', 'MaxAHA', 'AvgAHH', 'AvgAHA'

@@ -1,6 +1,6 @@
-Accuracy1 = 0.8217626136213932
-Accuracyx = 0.7967329732578052
-Accuracy2 = 0.839942036622316
+Accuracy1 = 0.8135950467659072
+Accuracyx = 0.7935713344750361
+Accuracy2 = 0.8482413384270848
 mean_acc = (Accuracy1+Accuracy2+Accuracyx)/3
 n_H = mean_acc/Accuracy1
 n_A = mean_acc/Accuracy2

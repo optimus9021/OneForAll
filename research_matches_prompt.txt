@@ -1,0 +1,66 @@
+Research and list all possible factors and considerations that could affect the outcome of the following football match predictions. For each match, consider: injuries, lineups, suspensions, historical head-to-head data, tactical trends, weather, transfers, news, team motivation, fixture congestion, external influences, squad mental/physical condition, home/away factors, and statistical anomalies. Ignore the ML prediction; instead, focus on researching from all available sources any factor that could realistically affect the result, no matter how unlikely.
+
+Format:
+[Date] - [League] - [Match]
+Detail: lakukan research apapun yang bisa mempengaruhi hasil pertandingan ini, urutkan dari yang paling berdampak seperti cedera, lineup, motivasi, berita, jadwal padat, cuaca, peristiwa di luar lapangan, rumor, apapun yang muncul dari research relevan.
+
+Matches:
+26-10-2025 - G1 - Olympiakos vs AEK
+26-10-2025 - G1 - PAOK vs Volos NFC
+26-10-2025 - I2 - Padova vs Juve Stabia
+26-10-2025 - SP1 - Osasuna vs Celta
+26-10-2025 - SP1 - Mallorca vs Levante
+26-10-2025 - F1 - Lille vs Metz
+26-10-2025 - SP2 - Malaga vs Andorra
+26-10-2025 - D2 - Magdeburg vs Preußen Münster
+26-10-2025 - F1 - Lyon vs Strasbourg
+26-10-2025 - F1 - Lille vs Metz
+26-10-2025 - G1 - Panathinaikos vs Asteras Tripolis
+26-10-2025 - D1 - Leverkusen vs Freiburg
+26-10-2025 - SP1 - Mallorca vs Levante
+26-10-2025 - G1 - Panathinaikos vs Asteras Tripolis
+26-10-2025 - SP1 - Vallecano vs Alaves
+26-10-2025 - SC0 - Rangers vs Kilmarnock
+26-10-2025 - SP1 - Real Madrid vs Barcelona
+26-10-2025 - F1 - Rennes vs Nice
+26-10-2025 - I1 - Sassuolo vs Roma
+26-10-2025 - P1 - Sp Braga vs Casa Pia
+26-10-2025 - SP2 - Sp Gijon vs Zaragoza
+26-10-2025 - D1 - Stuttgart vs Mainz
+26-10-2025 - P1 - Tondela vs Sp Lisbon
+26-10-2025 - I1 - Torino vs Genoa
+26-10-2025 - N1 - Twente vs Ajax
+26-10-2025 - D1 - Leverkusen vs Freiburg
+26-10-2025 - I1 - Verona vs Cagliari
+26-10-2025 - SC0 - Rangers vs Kilmarnock
+26-10-2025 - I1 - Lazio vs Juventus
+26-10-2025 - SC0 - Aberdeen vs Hibernian
+26-10-2025 - T1 - Kasimpasa vs Besiktas
+26-10-2025 - I1 - Verona vs Cagliari
+26-10-2025 - N1 - AZ Alkmaar vs Utrecht
+26-10-2025 - SC0 - Aberdeen vs Hibernian
+26-10-2025 - SP2 - Almeria vs Castellon
+26-10-2025 - F1 - Angers vs Lorient
+26-10-2025 - T1 - Antalyaspor vs Buyuksehyr
+26-10-2025 - B1 - Antwerp vs Club Brugge
+26-10-2025 - E0 - Arsenal vs Crystal Palace
+26-10-2025 - E0 - Aston Villa vs Man City
+26-10-2025 - F1 - Auxerre vs Le Havre
+26-10-2025 - I2 - Bari vs Mantova
+26-10-2025 - E0 - Bournemouth vs Nott'm Forest
+26-10-2025 - T1 - Kasimpasa vs Besiktas
+26-10-2025 - SC0 - Hearts vs Celtic
+26-10-2025 - N1 - Go Ahead Eagles vs Excelsior
+26-10-2025 - B1 - Genk vs RAAL La Louviere
+26-10-2025 - T1 - Genclerbirligi vs Konyaspor
+26-10-2025 - I1 - Lazio vs Juventus
+26-10-2025 - T1 - Galatasaray vs Goztep
+26-10-2025 - N1 - Feyenoord vs PSV Eindhoven
+26-10-2025 - P1 - Famalicao vs Guimaraes
+26-10-2025 - E0 - Everton vs Tottenham
+26-10-2025 - P1 - Estoril vs Nacional
+26-10-2025 - D2 - Braunschweig vs Hannover
+26-10-2025 - I1 - Fiorentina vs Bologna
+27-10-2025 - T1 - Samsunspor vs Rizespor
+
+Untuk setiap pertandingan di atas, research semua kemungkinan faktor apapun yang bisa mempengaruhi hasil akhir tanpa terkecuali.

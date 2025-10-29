@@ -1,0 +1,47 @@
+08:00, Atletico San Luis - Necaxa              , Home Win: 45%, Draw: 28%, Away Win: 27%, FTR: -
+08:00, Toluca - Pachuca                        , Home Win: 55%, Draw: 24%, Away Win: 21%, FTR: -
+08:30, San Diego - Portland Timbers            , Home Win: 54%, Draw: 28%, Away Win: 18%, FTR: -
+15:30, Bhayangkara FC - Persijap Jepara        , Home Win: 48%, Draw: 27%, Away Win: 25%, FTR: -
+18:00, Nam Dinh - Da Nang                      , Home Win: 59%, Draw: 23%, Away Win: 18%, FTR: -
+18:30, Hougang United FC - Tampines Rovers FC  , Home Win: 20%, Draw: 17%, Away Win: 63%, FTR: -
+19:00, Persib Bandung - Persis Solo            , Home Win: 61%, Draw: 26%, Away Win: 13%, FTR: -
+21:00, Smouha SC - El Gouna FC                 , Home Win: 39%, Draw: 37%, Away Win: 24%, FTR: -
+21:35, Al-Fateh - Al-Riyadh                    , Home Win: 47%, Draw: 26%, Away Win: 27%, FTR: -
+22:00, Telavi - Torpedo Kutaisi                , Home Win: 21%, Draw: 31%, Away Win: 48%, FTR: -
+22:00, Al Kholood - Al Najma                   , Home Win: 53%, Draw: 25%, Away Win: 22%, FTR: -
+22:00, Ararat Yerevan - FC Noah                , Home Win: 17%, Draw: 22%, Away Win: 61%, FTR: -
+22:30, FC Botosani - AFC Hermannstadt          , Home Win: 57%, Draw: 28%, Away Win: 15%, FTR: -
+22:30, CSKA 1948 - Ludogorets Razgrad          , Home Win: 36%, Draw: 31%, Away Win: 33%, FTR: -
+22:30, HNK Rijeka - NK Osijek                  , Home Win: 49%, Draw: 28%, Away Win: 23%, FTR: -
+22:45, Al-Salmiyah - Al-Qadsia                 , Home Win: 37%, Draw: 25%, Away Win: 38%, FTR: -
+23:00, Smouha SC - El Gouna FC                 , Home Win: 41%, Draw: 36%, Away Win: 23%, FTR: -
+23:00, Dinamo Tbilisi - Kolkheti Poti          , Home Win: 65%, Draw: 26%, Away Win: 9% , FTR: -
+23:00, SJK - KuPS                              , Home Win: 27%, Draw: 34%, Away Win: 39%, FTR: -
+23:30, Akhmat Grozny - FC Sochi                , Home Win: 61%, Draw: 24%, Away Win: 15%, FTR: -
+00:00, Samsunspor - Rizespor                   , Home Win: 51%, Draw: 29%, Away Win: 20%, FTR: -
+00:00, Gaziantep FK - Fenerbahce               , Home Win: 28%, Draw: 28%, Away Win: 44%, FTR: -
+00:00, Al-Ittihad Alexandria - Wadi Degla      , Home Win: 25%, Draw: 35%, Away Win: 40%, FTR: -
+00:00, A. E. Kition Larnaca - Apoel            , Home Win: 41%, Draw: 27%, Away Win: 32%, FTR: -
+00:00, Omonia - Pafos FC                       , Home Win: 37%, Draw: 33%, Away Win: 30%, FTR: -
+00:00, Vukovar 91 - NK Dinamo Zagreb           , Home Win: 16%, Draw: 21%, Away Win: 63%, FTR: -
+00:00, Tartu Welco Elekter - FC Elva           , Home Win: 43%, Draw: 26%, Away Win: 31%, FTR: -
+00:00, Suduva Marijampole - FK Zalgiris Kaunas , Home Win: 31%, Draw: 31%, Away Win: 38%, FTR: -
+00:00, Dainava Alytus - Hegelmann Litauen      , Home Win: 18%, Draw: 24%, Away Win: 58%, FTR: -
+01:00, Odense - Brondby                        , Home Win: 26%, Draw: 27%, Away Win: 47%, FTR: -
+01:00, Maccabi Tel Aviv - Irony Kiryat Shmona  , Home Win: 69%, Draw: 20%, Away Win: 11%, FTR: -
+01:00, Radomiak Radom - Wisla Plock            , Home Win: 37%, Draw: 33%, Away Win: 30%, FTR: -
+01:00, IF Brommapojkarna - GAIS                , Home Win: 27%, Draw: 27%, Away Win: 46%, FTR: -
+01:30, Rapid Bucuresti - Unirea 2004 Slobozia  , Home Win: 55%, Draw: 25%, Away Win: 20%, FTR: -
+02:00, Barracas Central - Boca Juniors         , Home Win: 34%, Draw: 31%, Away Win: 35%, FTR: -
+02:00, Al-Ittihad Alexandria - Wadi Degla      , Home Win: 25%, Draw: 35%, Away Win: 40%, FTR: -
+02:00, Budafoki MTE - Soroksar                 , Home Win: 38%, Draw: 33%, Away Win: 29%, FTR: -
+02:30, Inter U23 - Cittadella                  , Home Win: 39%, Draw: 35%, Away Win: 26%, FTR: -
+02:30, Dolomiti Bellunesi - Triestina          , Home Win: 35%, Draw: 31%, Away Win: 34%, FTR: -
+02:30, Perugia - Livorno                       , Home Win: 42%, Draw: 29%, Away Win: 29%, FTR: -
+03:00, Betis - Atletico Madrid                 , Home Win: 35%, Draw: 31%, Away Win: 34%, FTR: -
+03:00, Port Vale - Stockport                   , Home Win: 26%, Draw: 34%, Away Win: 40%, FTR: -
+03:15, Moreirense - FC Porto                   , Home Win: 22%, Draw: 22%, Away Win: 56%, FTR: -
+03:30, Sportivo Ameliano - General Caballero CG, Home Win: 41%, Draw: 29%, Away Win: 30%, FTR: -
+05:00, Chapecoense - Operario-PR               , Home Win: 48%, Draw: 32%, Away Win: 20%, FTR: -
+05:45, FC Cincinnati - Columbus Crew           , Home Win: 39%, Draw: 35%, Away Win: 26%, FTR: -
+06:00, Club Nacional - Cerro Porteno           , Home Win: 30%, Draw: 31%, Away Win: 39%, FTR: -

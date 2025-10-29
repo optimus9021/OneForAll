@@ -3,7 +3,7 @@ from tqdm import tqdm
 
 def process_data(n):
     try:
-        for nomor_file in range(n, 25):
+        for nomor_file in range(n, 27):
             print(f'Membaca data dari file Excel dengan nomor file-{nomor_file}')
             file_path = f'database/data/data-unprocessed/data-{nomor_file}.xlsx'
 
